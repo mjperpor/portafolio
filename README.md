@@ -6,3 +6,4 @@
 - Pull
 - Fetch
 - Este texto va a dar problemas
+- Resolver conflicto
