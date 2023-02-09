@@ -5,3 +5,4 @@
 - Crear una versión
 - Pull
 - Fetch
+- Resolver conflicto
