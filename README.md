@@ -3,3 +3,5 @@
 
 - Clonar
 - Crear una versión
+- Pull
+- Fetch
